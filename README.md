@@ -6,6 +6,7 @@
 	<a href="mailto:cnh0301@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/DDK0301-91a557204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://discordapp.com/users/394859215652519959/"><img src="https://img.shields.io/badge/Discord-%237289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"/></a>
+	<a href="https://twitter.com/8p90J5COKkih2lB"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ## DEV
