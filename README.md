@@ -28,8 +28,8 @@
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=flat-square&logo=Jest&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-%23ff4785?style=flat-square&logo=Storybook&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000?style=flat-square&logo=Vercel&logoColor=white)
-![Github Actions](https://img.shields.io/badge/github%20actions-%232088FF?style=flat-square&logo=github%20actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=Vercel&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github%20actions&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&logo=Heroku&logoColor=white)
 
