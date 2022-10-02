@@ -32,4 +32,5 @@
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github%20actions&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098?style=flat-square&logo=Heroku&logoColor=white)
+![Notion API](https://img.shields.io/badge/Notion%20API-%23000000.svg?&style=flat-squar&logo=notion&logoColor=white)
 
