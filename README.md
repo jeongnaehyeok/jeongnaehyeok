@@ -1,6 +1,6 @@
 <h2 align="center">안녕하세요👋, 방구석 호랑이 정내혁입니다.</h2>
 
-<p align="center">재미있는 세상을 만들기 위해 개발로 문제를 해결하는 것을 좋아합니다.</p>
+<p align="center">재미있는 세상을 만들기 위해 문제를 해결하는 것을 좋아합니다.</p>
 
 <p align="center">
 	<a href="mailto:cnh0301@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
